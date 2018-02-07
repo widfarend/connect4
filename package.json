@@ -1,0 +1,15 @@
+{
+  "name": "connect4",
+  "version": "0.0.1",
+  "description": "connect4 tech test",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "jest"
+  },
+  "author": "Anthony Williams",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^22.2.0"
+  }
+}
